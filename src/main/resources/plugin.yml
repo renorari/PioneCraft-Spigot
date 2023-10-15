@@ -1,0 +1,4 @@
+name: PioneCraft
+version: '${project.version}'
+main: net.renroari.pionecraft.PioneCraft
+api-version: '1.20'
